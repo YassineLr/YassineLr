@@ -28,7 +28,7 @@ I love learning new techs and using new tools. I also challenge myself everyday 
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/yassinelr/yassinelr/issues/new)** or <a href="mailto:Yassine.lr.2001@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here](https://github.com/YassineLr/YassineLr/issues/new)** or <a href="mailto:Yassine.lr.2001@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
