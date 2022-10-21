@@ -14,13 +14,15 @@
 </a>
 <br />
 <br />
-[![yassinelr's 42 stats](https://badge.mediaplus.ma/Darkblue/ylarhris)](https://github.com/YassineLr/badge42)
+
 I'm a Computer science Student at <a href="https://1337.ma">UM6P - 1337FIL</a> and <a href="http://www.fsts.ac.ma/">FST - Settat</a>.
 <br />
 
 I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+  
+[![yassinelr's 42 stats](https://badge.mediaplus.ma/Darkblue/ylarhris)](https://github.com/YassineLr/badge42)
 
-<br />
+  <br />
 I love learning new techs and using new tools. I also challenge myself everyday to get better at programming.
 <br />
 <br />
