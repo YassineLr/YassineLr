@@ -43,7 +43,6 @@ Ask me anything **[here](https://github.com/YassineLr/issues/new)** or <a href="
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineLr&layout=compact&theme=dark&bg_color=0A0A0A" alt="YassineLr Top Languages"/>
 <br />
 <br />
-<br />
 <a href="https://github.com/yassinelr" align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=yassinelr.yassinelr" alt="Visitors count" /></a>
 <br />
 
