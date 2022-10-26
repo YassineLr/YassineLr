@@ -3,7 +3,6 @@
 <br />
 <br />
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
--->
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/YassineLr/YassineLr/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/yassine-larhrissi-813b86204/" target="_blank">
