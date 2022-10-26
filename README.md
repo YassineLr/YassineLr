@@ -2,7 +2,6 @@
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
 <br />
-<!--
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
 -->
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
