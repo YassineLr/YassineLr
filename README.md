@@ -2,7 +2,7 @@
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
 <br />
-<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
+
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/YassineLr/YassineLr/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/yassine-larhrissi-813b86204/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
