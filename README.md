@@ -46,7 +46,7 @@ Ask me anything **[here](https://github.com/YassineLr/issues/new)** or <a href="
 <a href="https://github.com/yassinelr" align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=yassinelr.yassinelr" alt="Visitors count" /></a>
 <br />
 
-**Happy Coding! And i love coding** 😊
+**Happy Coding!** 😊
 </div>
 
 <div align="center">
